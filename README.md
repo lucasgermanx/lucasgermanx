@@ -8,7 +8,7 @@
 <p>
  Hello 👋, my name is Lucas! A Brazilian passionate about Software Development.
 
-  - 🚀 I'm currently studying Back-end and Front-end Development at RocketSeat
+  - 🚀 I'm currently studying Full stack Development at RocketSeat
 </p>
 
 <!-- Dropdown -->
