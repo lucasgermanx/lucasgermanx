@@ -15,7 +15,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
- - 💬I'm 17 years old and currently live in Brazil. I have experience with SQL, JavaScript and Node.js.
+ - 💬I'm 17 years old and currently live in Brazil. I have experience with JavaScript, TypeScript, Nodejs, Reactjs, etc...
 
   - ⚡I like developing systems to improve my daily life and solve other people's problems. In my free time I love watching movies, series and playing games!
 </details>
