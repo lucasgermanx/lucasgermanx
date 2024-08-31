@@ -29,8 +29,10 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- https://github.com/lucasgermanx/GymPass-Style-App
-- 👨‍💻Development...
+### Front-end
+- [Todo List](https://github.com/lucasgermanx/todo-list)
+### Back-end
+- [Gym System](https://github.com/lucasgermanx/GymPass-Style-App)
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
