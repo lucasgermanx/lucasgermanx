@@ -29,9 +29,12 @@
 ## Portfolio:
 ### Front-end
 - [Todo List](https://github.com/lucasgermanx/todo-list)
-- [Timer](https://github.com/lucasgermanx/ignite-timer) developing...
+- [Timer](https://github.com/lucasgermanx/ignite-timer)
 ### Back-end
 - [Gym System](https://github.com/lucasgermanx/GymPass-Style-App)
+
+### Fullstak
+- [Todo List NLW](https://github.com/lucasgermanx/nlw-pocket-javascript)
 
 ## 🔥 Skills
   <div style="flex-basis: 48%;">
