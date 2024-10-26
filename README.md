@@ -33,7 +33,7 @@
 ### Back-end
 - [Gym System](https://github.com/lucasgermanx/GymPass-Style-App)
 
-### Fullstak
+### Full Stack
 - [Todo List NLW](https://github.com/lucasgermanx/nlw-pocket-javascript)
 
 ## 🔥 Skills
